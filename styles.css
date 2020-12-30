@@ -1,0 +1,65 @@
+.nameh1{
+
+  font-size: 5rem;
+}
+.nameh6{
+
+  color: black;
+}
+.names{
+    color: #ff4c68;
+}
+.abh{
+  margin-left: 2%;
+
+}
+.testimonial-image{
+
+  width: 10%;
+  border-radius: 100%;
+  margin: 20px;
+}
+
+.carousel-item{
+  padding: 7% 15%;
+
+}
+#navbar_name{
+  background-image: url(background1.jpeg);
+
+}
+#testimonials{
+
+  background-color: #ff4c68;
+  color: white;
+}
+
+#features{
+  padding: 7% 15%;
+}
+
+.feature-box
+{
+  text-align: center;
+  padding: 5%;
+}
+.icon{
+  color: #ef8172;
+  margin-bottom: 1rem;
+}
+.icon:hover{
+  color: #ff4c68;
+}
+
+/* footer */
+#footer{
+  text-align: center;
+  padding: 7% 15%;
+}
+.fut{
+  padding-left: 2px;
+  padding-bottom: 5px;
+}
+#niche{
+  padding-right: 5px;
+}
